@@ -1,4 +1,4 @@
-# Árboles de Derivación – TP5, Filmina 11.
+# Árboles de Derivación – TP4, Filmina 11.
 
 Este archivo contiene los árboles sintácticos en formato estructurado para las 10 oraciones solicitadas en el trabajo práctico. Lo realicé de  esta manera porque me parecía más óptimo al momento de subirlo en Visual Studio Code y quedaba más prolijo visualmente sin necesidad de hacerlo en formato imágen.
 
