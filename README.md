@@ -1,6 +1,6 @@
 # TP4 - Árboles de Derivación
 
-Este repositorio contiene el trabajo práctico 4 de la materia Técnicas de Procesamiento del habla, que consiste en generar los árboles sintácticos (de derivación) para las siguientes oraciones:
+Este repositorio contiene el trabajo práctico 4 de la materia Técnicas de Procesamiento del habla, que consiste en generar los árboles sintácticos (de derivación) para las diez oraciones pedidasd en el archivo .md
 
 ## ✅ Instrucciones del trabajo
 
